@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="QualITPlugin">
+    <option name="moduleName" />
+    <option name="settings">
+      <list>
+        <Setting>
+          <option name="name" value="allure.enabled" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="applicationUrl" />
+          <option name="type" value="text" />
+          <option name="value" value="https://qualit.appline.ru/" />
+        </Setting>
+        <Setting>
+          <option name="name" value="driverType" />
+          <option name="type" value="list" />
+          <option name="value" value="CHROME" />
+        </Setting>
+        <Setting>
+          <option name="name" value="maximizeWindow" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="defaultWaitTimeOut" />
+          <option name="type" value="text" />
+          <option name="value" value="10" />
+        </Setting>
+        <Setting>
+          <option name="name" value="implicitlyWait" />
+          <option name="type" value="text" />
+          <option name="value" value="0" />
+        </Setting>
+        <Setting>
+          <option name="name" value="closeDriverAfterTest" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="connectToRunningApp" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="screenshotConfiguration" />
+          <option name="type" value="list" />
+          <option name="value" value="DISABLED" />
+        </Setting>
+        <Setting>
+          <option name="name" value="advancedScreenshotMethod" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="fullScreenshot" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="highlightElements" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="loglevel" />
+          <option name="type" value="list" />
+          <option name="value" value="INFO" />
+        </Setting>
+        <Setting>
+          <option name="name" value="delayStep" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="incognito" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="api.attachContent" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="api.attachMeta" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="true" />
+        </Setting>
+        <Setting>
+          <option name="name" value="parallel.auto" />
+          <option name="type" value="checkbox" />
+          <option name="value" value="false" />
+        </Setting>
+        <Setting>
+          <option name="name" value="parallel.count" />
+          <option name="type" value="text" />
+          <option name="value" value="2" />
+        </Setting>
+        <Setting>
+          <option name="name" value="webdriver.timeouts.implicitlywait" />
+          <option name="type" value="text" />
+          <option name="value" value="0" />
+        </Setting>
+      </list>
+    </option>
+    <option name="tags">
+      <list>
+        <Tag>
+          <option name="name" value="@all" />
+          <option name="value" value="true" />
+        </Tag>
+      </list>
+    </option>
+  </component>
+</project>
