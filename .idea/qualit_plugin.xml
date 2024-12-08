@@ -79,31 +79,6 @@
           <option name="type" value="checkbox" />
           <option name="value" value="false" />
         </Setting>
-        <Setting>
-          <option name="name" value="api.attachContent" />
-          <option name="type" value="checkbox" />
-          <option name="value" value="true" />
-        </Setting>
-        <Setting>
-          <option name="name" value="api.attachMeta" />
-          <option name="type" value="checkbox" />
-          <option name="value" value="true" />
-        </Setting>
-        <Setting>
-          <option name="name" value="parallel.auto" />
-          <option name="type" value="checkbox" />
-          <option name="value" value="false" />
-        </Setting>
-        <Setting>
-          <option name="name" value="parallel.count" />
-          <option name="type" value="text" />
-          <option name="value" value="2" />
-        </Setting>
-        <Setting>
-          <option name="name" value="webdriver.timeouts.implicitlywait" />
-          <option name="type" value="text" />
-          <option name="value" value="0" />
-        </Setting>
       </list>
     </option>
     <option name="tags">
